@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="../src/style.css">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WeatherApp With Jado</title>
+</head>
+<body>
+  <div class="main">
+    <div class="app" style="padding: 100px; background-color: rgba(246, 244, 244, 0.976);">
+      <div class="toggle-div">
+        <label class="switch">
+          <input type="checkbox">
+          <span class="slider round"></span>
+          <span class="labels" data-f="F" data-c="C"></span>
+        </label>
+      </div>
+      <form class="location-form" style="color: rgb(78, 17, 17);">
+        <label for="location"></label>
+        <input type="text" class="location" id="location" style="" name="location" placeholder="Search location" autocomplete="off">
+        <button class="search"></button>
+      </form>
+      <div class="weather-info">
+      </div>
+      <div class="secondary-weather-info">
+        <div class="humidity-info" style="color: rgb(79, 153, 217); background-color: gray;" >
+        </div>
+        <div class="precipitation-info" style="color: rgb(79, 153, 217); background-color: gray;">
+        </div>
+      </div>
+     
+    </div>
+    <p style="margin-left: 150px; margin-top: -100px;">All working Reserved &copy; <a target="_blank" href="https://www.linkedin.com/in/jado1/">Jado</a></p>
+  </div>
+  <script src="main.js"></script>
+</body>
+</html>
