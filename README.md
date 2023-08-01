@@ -10,6 +10,6 @@ to be honest, I struggled much with this project, too much googling, stacking, c
 - Api data consuming  from Weathers endpoint
 - Collaboration 
 
-Click here for a [live previe](https://jado-jeady.github.io/weatherApp/dist/)
+Click here for a [live previe](https://jado-jeady.github.io/weatherApp/dist/){:target="_blank" rel="noopener"}
 
-Connect with me On [LinkedIn ](https://www.linkedin.com/in/jado1/)
+Connect with me On [LinkedIn ](https://www.linkedin.com/in/jado1/){:target="_blank" rel="noopener"}
